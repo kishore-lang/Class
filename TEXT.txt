@@ -3,3 +3,8 @@ It uses Git, a version control system that tracks changes in files.
 Developers use GitHub to collaborate, manage projects, and store code.
 You can create repositories to organize your code and files.
 GitHub also supports issues, pull requests, and actions for teamwork and automation.
+GitHub lets you work with others on the same code from anywhere.
+You can fork (copy) projects to make your own changes.
+A pull request lets you suggest changes to someone else’s code.
+GitHub is great for open source and learning from real-world code.
+It also has GitHub Pages to host simple websites for free.
